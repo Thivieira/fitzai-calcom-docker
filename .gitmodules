@@ -1,4 +1,4 @@
 [submodule "calcom"]
 	path = calcom
-	url = https://github.com/Thivieira/fitzai-calcom-docker.git
+	url = https://github.com/Thivieira/fitzai-calcom.git
 	branch = main
